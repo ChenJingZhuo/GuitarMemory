@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GuitarMemory</string>
+    <string name="next">下一个</string>
+    <string name="show_answer">显示答案</string>
+    <string name="about">关于</string>
+    <string name="author">作者：Click</string>
+</resources>
